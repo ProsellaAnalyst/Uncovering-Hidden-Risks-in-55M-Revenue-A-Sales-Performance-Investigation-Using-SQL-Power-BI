@@ -4,8 +4,8 @@ Wide World Importers – Revenue Analysis using historical performance
 
 ## 1. The Project Dashboard
 
-![Sales Performance Dashboard](<img width="869" height="489" alt="image" src="https://github.com/user-attachments/assets/9627584e-6bf1-48ed-aeae-762ef2869bdf" />
-)  
+<img width="869" height="489" alt="image" src="https://github.com/user-attachments/assets/9627584e-6bf1-48ed-aeae-762ef2869bdf" />
+
 
 
 Key metrics at a glance (2013–2016):  
