@@ -91,7 +91,7 @@ These four high-impact decisions deliver immediate protection and long-term grow
 
 Leadership can execute these strategies now.
 
-**View Presentation:** https://gamma.app/docs/Revenue-At-Risk-724tnffzutm0ii4
+**View Presentation:** https://gamma.app/docs/Revenue-At-Potential-Risk-2gd1vt1x38b14qv
 ## Tools/Skills used
 SQL (cleaning)
 
